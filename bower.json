@@ -1,0 +1,19 @@
+{
+  "name": "november-course",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nirkaufman/november-angular-course",
+  "authors": [
+    "nirkaufman <Nir@500tech.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.1"
+  }
+}
